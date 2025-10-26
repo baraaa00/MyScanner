@@ -28,8 +28,8 @@ lexicalAnalyze("test.txt") is called — just replace "test.txt" with your full 
 
 ## 🖼️ Examples
 
-[🧩 Input Example](https://github.com/baraaa00/MyScanner/blob/main/images/input.png)  
+[Input Example](https://github.com/baraaa00/MyScanner/blob/main/images/input.png)  
 
-[📤 Output Example](https://github.com/baraaa00/MyScanner/blob/main/images/output.png)  
+[Output Example](https://github.com/baraaa00/MyScanner/blob/main/images/output.png)  
 
 > Click any link above to open the image directly on GitHub.
