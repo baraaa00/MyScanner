@@ -24,12 +24,3 @@ Otherwise, the program won’t be able to open it.
 If you prefer to use a custom path,
 you can edit the file path directly inside main.cpp where the function
 lexicalAnalyze("test.txt") is called — just replace "test.txt" with your full path.
-
-
-## 🖼️ Examples
-
-[Input Example](https://github.com/baraaa00/MyScanner/blob/main/images/input.png)  
-
-[Output Example](https://github.com/baraaa00/MyScanner/blob/main/images/output.png)  
-
-> Click any link above to open the image directly on GitHub.
